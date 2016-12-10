@@ -1,0 +1,131 @@
+* {
+	font-family: 'Lato', sans-serif;
+	border: 			0;
+	margin: 			0;
+	outline: 			none; 
+	padding: 			0;  
+}
+
+nav{
+	font-family: 'Lato', sans-serif;
+	background-color: #FE7E00;
+	height: 80px;
+	border-bottom: 	10px solid #F0720D;
+	color: #FFF7D6;
+}
+ 
+nav img {
+	float: left;
+}
+.orange {
+	float: left;
+	font-family: 'Lato', sans-serif;
+	font-size: 2em;
+	color: #FFF7D6;
+	font-weight: 900;
+}
+.juice {
+	float: left;
+	font-size: 2em;
+	color: #FFF7D6;
+}
+
+.tm {
+	float: left;
+	font-size: .2em;
+	color: #FFF7D6;
+
+}
+
+nav ul {
+	float: right;
+	margin-right: 20px;
+}
+
+nav ul li {
+	margin: 15px 0 0 ;
+	padding: 10px;
+	display: inline-block;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+	
+}
+
+section{
+	padding: 0 20px;
+	background-color: #F9F9F9;
+	height: 1000px;
+
+
+}
+section input {
+	height: 30px;
+	font-size: 16px;
+	margin: 5px 50px;
+	background-color: #EEEEEE;
+	color: #CFD0CF;
+	float: right;
+}
+
+.orangeslice {
+	float: left;
+	display: block;
+	width: 50%;
+	text-align: center;
+
+}
+
+.split {
+	margin-bottom: 20px;
+	font-size: 2em;
+	color:  #FE7E00;
+	display:inline-block;
+	width: 50%;
+	text-align: left;
+
+}
+
+.orange1{
+	font-weight: bold;
+	
+
+}
+
+.tm1{
+	font-size: .2em
+}
+
+.web {
+	font-weight: bold;
+	color: #7ACCC8;
+}
+
+button {
+	margin-right: 35px;
+	text-align: center;
+	text-decoration: none;
+	height: 35px;
+	width: 180px;
+}
+
+.quote {
+	background-color: #FE7E00;
+	color: white;
+
+}
+
+.studies{
+	background-color: #7ACCC8;
+	color: white;
+}
+
+footer {
+	background-color: #7ACCC8;
+	height: 80px;
+	position: absolute;
+    bottom: 0;
+    width: 100%;
+}
